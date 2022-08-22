@@ -1,0 +1,45 @@
+.carddeck {
+
+    color:black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav>li {
+    display: inline-block;
+    float: none;
+    font-size: 15px;
+    margin: 0 15px;
+}
+
+.contact{
+    color:rgb(255, 255, 255, 0.55);
+    background-color: rgb(33,37,41);
+}
+
+a{
+    color: rgba(255, 255, 255, 0.226);
+}
+
+div[class='heading text-center']{
+    background-color: rgb(33,37,41);
+    color:rgb(255, 255, 255, 0.55);
+}
+
+div[class='card shadow']{
+    margin: 25px;
+}
+
+div[class='links bottom-links']{
+    margin: 0;
+}
+
+.card-link{
+    color: rgb(33,37,41);
+}
